@@ -14,8 +14,6 @@ Video - https://youtu.be/fAynC3J1EYI
   
   ![Gameplay](Game%20about%20mining/3.png)
   
-  ![Gameplay](Game%20about%20mining/4.png)
-  
 </details>
 
 ## Harry stories
