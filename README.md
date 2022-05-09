@@ -17,7 +17,9 @@ Video - https://youtu.be/fAynC3J1EYI
 </details>
 
 ## Harry stories
-Faritales with text, sound and voice 
+\[I responsible for part of this project. e.g. sky, localization, bag fixing, language menu etc.]
+
+Faritales with text, sound and voice
 
 Video - https://youtu.be/BqakXeKmies
 
