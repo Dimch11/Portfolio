@@ -53,7 +53,3 @@ Video - https://youtu.be/OIyOdBNYR1A
   ![Gameplay](Garbage%20recycling/3.png)
   
 </details>
-  
-  ![Gameplay](Pushkin%20and%20Dal/4.png)
-  
-</details>
