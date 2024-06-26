@@ -53,20 +53,6 @@ Video - https://youtu.be/OIyOdBNYR1A
   ![Gameplay](Garbage%20recycling/3.png)
   
 </details>
-
-## Pushkin and Dal
-Small game about meanings of archaisms in Russian language
-
-Video - https://youtu.be/VgX4Fdx7164
-
-<details>
-  <summary>Screenshots</summary>
-  
-  ![Gameplay](Pushkin%20and%20Dal/1.png)
-  
-  ![Gameplay](Pushkin%20and%20Dal/2.png)
-  
-  ![Gameplay](Pushkin%20and%20Dal/3.png)
   
   ![Gameplay](Pushkin%20and%20Dal/4.png)
   
